@@ -1,0 +1,31 @@
+#cabeçalho {
+	background-color: orange;
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+h1 {
+	font-family: 'Sura', serif;
+	font-size: 60px;
+}
+
+.form {
+	padding: 1em;
+    margin: 2em auto;
+    width: 17em;
+    background: lightblue;
+    border-radius: 3px;	
+}
+
+.lista {
+	display: flex;
+	justify-content: center;
+	padding: 5px;
+    margin: 5px;
+    width: 17em;
+    background: lightblue;
+    border-radius: 3px;
+    float: left;
+}
